@@ -1,0 +1,1424 @@
+1.Первый базовый промпт пентхауса.
+
+Photorealistic portrait of the man from the reference photo, preserving exact facial features, identity, expression, skin texture, proportions and likeness. He is standing barefoot near a huge floor-to-ceiling panoramic window inside a spacious minimalist high-tech penthouse. He wears an impeccably tailored dark charcoal business suit (wet asphalt color) and a coral dress shirt with the top buttons open, no tie. Confident, calm posture.
+
+The interior is luxurious and modern: clean architectural lines, premium materials, subtle reflections, contemporary abstract paintings hanging on the walls, elegant minimalistic furniture, spacious atmosphere.
+
+Outside the panoramic window is a breathtaking sunset view from a high floor overlooking a vast coastal metropolis built around a bay. Thousands of city lights, illuminated office towers, glowing shop windows, reflections on the water, cinematic urban skyline stretching to the horizon.
+
+Golden-blue hour lighting, dramatic sunset ambience, volumetric light, realistic shadows, cinematic composition, ultra-detailed textures, shallow depth of field, natural skin tones, premium fashion photography, luxury lifestyle aesthetic.
+
+Shot on Hasselblad medium format camera, 80mm lens, f/2.8, HDR, ultra realistic, hyperrealism, editorial quality, masterpiece photography, 8K resolution, exceptional detail, photorealistic rendering, natural perspective, award-winning architectural and portrait photography.
+
+
+
+2.Портрет-якорь.
+
+Use both reference images with different priorities.
+
+REFERENCE IMAGE 1 — IDENTITY REFERENCE (ABSOLUTE PRIORITY)
+
+Reference Image 1 is the only source for the person's appearance.
+
+Preserve exactly:
+
+* facial structure
+* skull shape
+* forehead proportions
+* eye shape
+* smile
+* beard shape and texture
+* age
+* skin texture
+* bald head
+* black designer eyeglasses
+* facial asymmetry
+* expression
+* overall character and presence
+
+Do not beautify, rejuvenate, redesign or reinterpret the face.
+
+The face must remain unmistakably the same person as in Reference Image 1.
+
+Authenticity is more important than perfection.
+
+REFERENCE IMAGE 2 — STYLE AND ENVIRONMENT REFERENCE
+
+Reference Image 2 is the primary source for:
+
+* clothing
+* composition
+* camera distance
+* body pose
+* interior design
+* architecture
+* panoramic windows
+* cityscape
+* lighting
+* atmosphere
+* color palette
+* visual mood
+
+Recreate the environment, wardrobe and overall visual language of Reference Image 2.
+
+Do not use Reference Image 2 as a facial reference.
+
+The identity must come exclusively from Reference Image 1.
+
+SCENE
+
+The man from Reference Image 1 stands barefoot beside a floor-to-ceiling panoramic window inside an ultra-modern luxury penthouse.
+
+He wears:
+
+* a perfectly tailored charcoal blazer in a wet-asphalt tone
+* an elegant coral-colored dress shirt with the top buttons casually open
+* refined light-gray trousers with an extremely subtle Prince of Wales check pattern
+
+No tie.
+
+Relaxed posture.
+
+Natural confidence.
+
+Warm intelligent smile.
+
+Quiet authority.
+
+The interior feels sophisticated, architectural and expensive without being ostentatious.
+
+Museum-quality abstract artwork.
+
+Premium materials.
+
+Stone flooring.
+
+Subtle reflections.
+
+Clean modern lines.
+
+Understated luxury.
+
+OUTSIDE THE WINDOW
+
+A spectacular sunset over a vast coastal metropolis surrounding a bay.
+
+Glowing windows.
+
+City lights emerging at blue hour.
+
+Water reflections.
+
+Modern skyline.
+
+Distant bridges.
+
+Authentic urban atmosphere.
+
+PHOTOGRAPHIC STYLE
+
+World-class editorial photography.
+
+Authentic human presence.
+
+Documentary realism.
+
+Timeless luxury aesthetic.
+
+Natural imperfections.
+
+No advertising look.
+
+No corporate stock photography.
+
+No CGI appearance.
+
+No synthetic perfection.
+
+Inspired by:
+
+Monocle Magazine,
+Financial Times HTSI,
+Kinfolk,
+Wallpaper*,
+Cereal Magazine,
+Loro Piana campaigns,
+Brunello Cucinelli campaigns.
+
+FILM LOOK
+
+Strong medium-format analog character.
+
+Drum-scanned Kodak Portra 400.
+
+Subtle Kodak Vision3 color response.
+
+Organic tonal transitions.
+
+Beautiful highlight roll-off.
+
+Rich shadow detail.
+
+Natural skin rendering.
+
+Elegant color separation.
+
+Soft highlight bloom.
+
+Subtle halation around light sources.
+
+Gentle film grain.
+
+Reduced digital sharpness.
+
+No HDR.
+
+No excessive clarity.
+
+No artificial texture enhancement.
+
+CAMERA
+
+Hasselblad X2D.
+
+100mm medium-format lens equivalent.
+
+f/2.8.
+
+Natural perspective compression.
+
+Full-body composition.
+
+Subject slightly off-center.
+
+Architectural portraiture.
+
+Exceptional realism.
+
+Award-winning editorial photography.
+
+NEGATIVE INSTRUCTIONS
+
+Do not alter the person's identity.
+
+Do not beautify the face.
+
+Do not change the glasses.
+
+Do not make the person younger or older.
+
+Avoid oversized head.
+
+Avoid AI-style facial proportions.
+
+Avoid CGI aesthetics.
+
+Avoid HDR processing.
+
+Avoid excessive sharpening.
+
+Avoid plastic skin.
+
+Avoid commercial advertising look.
+
+Avoid luxury real-estate render appearance.
+
+Avoid cartoon, illustration or digital-art aesthetics.
+Use both reference images with different priorities.
+
+REFERENCE IMAGE 1 — IDENTITY REFERENCE (ABSOLUTE PRIORITY)
+
+Reference Image 1 is the only source for the person's appearance.
+
+Preserve exactly:
+
+* facial structure
+* skull shape
+* forehead proportions
+* eye shape
+* smile
+* beard shape and texture
+* age
+* skin texture
+* bald head
+* black designer eyeglasses
+* facial asymmetry
+* expression
+* overall character and presence
+
+Do not beautify, rejuvenate, redesign or reinterpret the face.
+
+The face must remain unmistakably the same person as in Reference Image 1.
+
+Authenticity is more important than perfection.
+
+REFERENCE IMAGE 2 — STYLE AND ENVIRONMENT REFERENCE
+
+Reference Image 2 is the primary source for:
+
+* clothing
+* composition
+* camera distance
+* body pose
+* interior design
+* architecture
+* panoramic windows
+* cityscape
+* lighting
+* atmosphere
+* color palette
+* visual mood
+
+Recreate the environment, wardrobe and overall visual language of Reference Image 2.
+
+Do not use Reference Image 2 as a facial reference.
+
+The identity must come exclusively from Reference Image 1.
+
+SCENE
+
+The man from Reference Image 1 stands barefoot beside a floor-to-ceiling panoramic window inside an ultra-modern luxury penthouse.
+
+He wears:
+
+* a perfectly tailored charcoal blazer in a wet-asphalt tone
+* an elegant coral-colored dress shirt with the top buttons casually open
+* refined light-gray trousers with an extremely subtle Prince of Wales check pattern
+
+No tie.
+
+Relaxed posture.
+
+Natural confidence.
+
+Warm intelligent smile.
+
+Quiet authority.
+
+The interior feels sophisticated, architectural and expensive without being ostentatious.
+
+Museum-quality abstract artwork.
+
+Premium materials.
+
+Stone flooring.
+
+Subtle reflections.
+
+Clean modern lines.
+
+Understated luxury.
+
+OUTSIDE THE WINDOW
+
+A spectacular sunset over a vast coastal metropolis surrounding a bay.
+
+Glowing windows.
+
+City lights emerging at blue hour.
+
+Water reflections.
+
+Modern skyline.
+
+Distant bridges.
+
+Authentic urban atmosphere.
+
+PHOTOGRAPHIC STYLE
+
+World-class editorial photography.
+
+Authentic human presence.
+
+Documentary realism.
+
+Timeless luxury aesthetic.
+
+Natural imperfections.
+
+No advertising look.
+
+No corporate stock photography.
+
+No CGI appearance.
+
+No synthetic perfection.
+
+Inspired by:
+
+Monocle Magazine,
+Financial Times HTSI,
+Kinfolk,
+Wallpaper*,
+Cereal Magazine,
+Loro Piana campaigns,
+Brunello Cucinelli campaigns.
+
+FILM LOOK
+
+Strong medium-format analog character.
+
+Drum-scanned Kodak Portra 400.
+
+Subtle Kodak Vision3 color response.
+
+Organic tonal transitions.
+
+Beautiful highlight roll-off.
+
+Rich shadow detail.
+
+Natural skin rendering.
+
+Elegant color separation.
+
+Soft highlight bloom.
+
+Subtle halation around light sources.
+
+Gentle film grain.
+
+Reduced digital sharpness.
+
+No HDR.
+
+No excessive clarity.
+
+No artificial texture enhancement.
+
+CAMERA
+
+Hasselblad X2D.
+
+100mm medium-format lens equivalent.
+
+f/2.8.
+
+Natural perspective compression.
+
+Full-body composition.
+
+Subject slightly off-center.
+
+Architectural portraiture.
+
+Exceptional realism.
+
+Award-winning editorial photography.
+
+NEGATIVE INSTRUCTIONS
+
+Do not alter the person's identity.
+
+Do not beautify the face.
+
+Do not change the glasses.
+
+Do not make the person younger or older.
+
+Avoid oversized head.
+
+Avoid AI-style facial proportions.
+
+Avoid CGI aesthetics.
+
+Avoid HDR processing.
+
+Avoid excessive sharpening.
+
+Avoid plastic skin.
+
+Avoid commercial advertising look.
+
+Avoid luxury real-estate render appearance.
+
+Avoid cartoon, illustration or digital-art aesthetics.
+
+
+2.1 Повторный промт, где мы пытались закрепить ещё и идентичность очков.
+
+
+FINAL IDENTITY ACCURACY REQUIREMENTS
+
+Reference Image 1 is the absolute authority for identity.
+
+Reproduce every identifiable facial characteristic visible in Reference Image 1.
+
+Preserve exactly:
+
+* skull shape
+* forehead height and curvature
+* eye shape
+* eyelid weight
+* eye openness
+* smile asymmetry
+* cheek structure
+* beard density and beard contour
+* beard color variation
+* skin texture
+* facial asymmetry
+* ear shape
+* nose proportions
+* mouth shape
+* expression
+* overall facial character
+
+Eyeglasses must match the reference exactly.
+
+Preserve:
+
+* frame thickness
+* frame geometry
+* glossy black finish
+* metallic rivets
+* distinctive notch detail near the bridge
+* exact visual character of the eyewear
+
+Do not redesign, simplify or reinterpret the glasses.
+
+Do not beautify the face.
+
+Do not increase facial symmetry.
+
+Do not make the expression more perfect.
+
+Do not create a generic luxury-businessman appearance.
+
+Maintain the authentic personality and natural imperfections visible in Reference Image 1.
+
+COMPOSITION ADJUSTMENTS
+
+Keep the environment, wardrobe, lighting and overall aesthetic from Reference Image 2.
+
+Increase camera distance by approximately 10–15%.
+
+Allow more negative space around the subject.
+
+Leave visible breathing room below the bare feet.
+
+Maintain full-body composition with comfortable margins around the figure.
+
+The subject should feel naturally placed within the architecture rather than filling the frame.
+
+
+2.2 Тут ды добвыляешь в промт ещё более жёсткие критерии идентичности.
+
+CRITICAL IDENTITY DETAILS
+
+The eyeglasses are an essential part of the person's identity.
+
+Match the eyeglasses from Reference Image 1 exactly.
+
+Preserve:
+
+- the distinctive notch cut-out detail near the upper outer corners
+- the exact upper frame contour
+- the exact lens proportions
+- the glossy black acetate thickness
+- the metallic rivets
+- the recognizable designer silhouette
+
+Do not simplify, redesign, modernize or approximate the eyewear.
+
+Treat the glasses as a biometric identity feature.
+
+FACIAL MICRO-EXPRESSION
+
+Preserve the exact facial asymmetry visible in Reference Image 1.
+
+Maintain:
+
+- the slightly different eye openness
+- the natural eyelid asymmetry
+- the exact smile asymmetry
+- the authentic facial tension around the eyes
+- the subtle expression lines
+
+Do not increase facial symmetry.
+
+Do not create a more perfect smile.
+
+Do not idealize the face.
+
+Authenticity is more important than attractiveness.
+
+
+3.Один из жёстких промптов фиксации идентичности. Думаю, что этот, когда мы добивались идентичности на кропе головы мужчины.
+
+
+Create a tight portrait crop of the man from the penthouse image.
+
+Use the penthouse image as the base identity and lighting context.
+
+Use the selfie as the absolute facial identity reference.
+
+Match as closely as possible:
+
+- skull shape
+- forehead
+- eye shape
+- eyelid asymmetry
+- eye openness
+- nose
+- mouth
+- beard density
+- beard contour
+- beard color variation
+- facial asymmetry
+- skin texture
+- expression
+
+The eyeglasses must match the selfie exactly:
+
+- glossy black acetate
+- same frame geometry
+- same thickness
+- metallic rivets
+- distinctive notch detail
+
+Keep the age, expression and natural imperfections.
+
+Do not beautify.
+Do not increase symmetry.
+Do not make the face younger.
+
+Create only a portrait crop from shoulders up.
+
+Photorealistic.
+
+
+4.Промпт для сцены с бокалом.
+
+LOCALIZED EDIT ONLY
+
+Perform a localized edit.
+
+Change only the left arm, left hand and the cocktail glass.
+
+All other pixels should remain unchanged.
+
+Use the current selected penthouse image as the base image.
+
+Preserve absolutely everything exactly as it is:
+
+* face
+* head
+* eyeglasses
+* facial expression
+* smile
+* body proportions
+* body position
+* clothing
+* blazer
+* shirt
+* trousers
+* feet
+* right arm
+* right hand
+* camera position
+* framing
+* composition
+* penthouse interior
+* furniture
+* artwork
+* panoramic windows
+* skyline
+* sunset view
+* reflections
+* lighting
+* shadows
+* color grading
+* film look
+* atmosphere
+* photorealistic rendering
+
+Make only one change:
+
+Remove the visible left hand from the trouser pocket.
+
+Reposition the left arm naturally beside the body.
+
+The left elbow should remain relaxed.
+
+The left hand should comfortably hold an elegant crystal old-fashioned glass.
+
+The glass contains a classic Negroni cocktail:
+
+* heavy cut-crystal rocks glass
+* transparent crystal
+* deep ruby-red Negroni
+* one large clear ice cube
+* subtle orange peel garnish
+* realistic liquid level
+* realistic refractions
+* realistic reflections
+
+The hand grip must be natural and anatomically correct.
+
+The cocktail glass must match the perspective, scale and lighting of the existing scene.
+
+The crystal should catch subtle warm sunset reflections and elegant interior highlights.
+
+The Negroni should appear premium, refined and realistic.
+
+The jacket should drape naturally after the hand leaves the pocket.
+
+Do not change the person's stance.
+
+Do not change facial identity.
+
+Do not change the eyeglasses.
+
+Do not change the body scale.
+
+Do not change the camera distance.
+
+Do not generate a new scene.
+
+Do not recompose the image.
+
+Do not alter any other part of the photograph.
+
+The final result should look like a seamless professional editorial retouch rather than a new image generation.
+
+Ultra-photorealistic.
+Luxury editorial photography.
+Invisible edit quality.
+
+
+Вот тебе ещё одна шутка-реплика из нашей переписки:
+
+Понеслась душа в рай😁😁😁 Модель опять стала править голову и очки, плюс дичь с рукой, хотя и бокал верный.
+
+
+5.Промпт для генерации хвата. Первый промт. Когда получился хват, но были проблемы с масштабом:
+
+
+LOCALIZED EDIT ONLY
+
+Perform a localized edit.
+
+Change only the left arm, left hand and the cocktail glass.
+
+All other pixels should remain unchanged.
+
+Use the current selected penthouse image as the base image.
+
+Preserve absolutely everything exactly as it is:
+
+* face
+* head
+* eyeglasses
+* facial expression
+* smile
+* body proportions
+* body position
+* clothing
+* blazer
+* shirt
+* trousers
+* feet
+* right arm
+* right hand
+* camera position
+* framing
+* composition
+* penthouse interior
+* furniture
+* artwork
+* panoramic windows
+* skyline
+* sunset view
+* reflections
+* lighting
+* shadows
+* color grading
+* film look
+* atmosphere
+* photorealistic rendering
+
+Make only one change:
+
+Remove the left hand from the trouser pocket.
+
+Let the left arm hang naturally and relaxed beside the body.
+
+The elbow should be softly bent and relaxed.
+
+The left hand should hold a heavy cut-crystal rocks glass in a casual, incidental, understated way, as if the person has just picked it up or is about to place it down.
+
+The hand position must match a relaxed top-hold gesture:
+
+* the fingers drape over the upper rim / upper edge of the glass
+* the grip comes from above, not from the side
+* the palm stays relaxed and slightly over the top
+* the thumb is loose and natural
+* the wrist is soft and unforced
+* the hand should not look like it is squeezing the glass
+* the pose should feel relaxed, effortless and candid
+
+The glass should sit low near the upper thigh, close to the body, not extended outward.
+
+The glass must be a premium heavy faceted crystal old-fashioned glass with many clear geometric cuts, thick walls and rich refractions.
+
+Inside the glass, a classic Negroni cocktail:
+
+* deep ruby-red liquid
+* one large clear ice cube
+* subtle orange peel garnish
+* realistic liquid level
+* realistic reflections
+* realistic refractions
+
+The crystal should catch warm sunset reflections and elegant interior highlights.
+
+The Negroni should appear premium, refined and realistic.
+
+The jacket should drape naturally after the hand leaves the pocket.
+
+Do not change the person's stance.
+
+Do not change facial identity.
+
+Do not change the eyeglasses.
+
+Do not change the body scale.
+
+Do not change the camera distance.
+
+Do not generate a new scene.
+
+Do not recompose the image.
+
+Do not alter any other part of the photograph.
+
+The final result should look like a seamless professional editorial retouch rather than a new image generation.
+
+Ultra-photorealistic.
+Luxury editorial photography.
+Invisible edit quality.
+
+
+5.1 Второй промт генерации хвата, когда был исправлен и масштаб. Среди изображений есть кроп руки с бокалом. Найдёшь
+
+LOCALIZED EDIT ONLY
+
+Edit only the visible left arm, left hand and cocktail glass within this cropped image.
+
+Everything else must remain absolutely unchanged.
+
+Do not modify:
+
+* jacket fabric
+* shirt
+* trouser fabric
+* body position
+* torso position
+* body proportions
+* lighting
+* shadows
+* reflections
+* colors
+* background elements
+* image composition
+* camera perspective
+
+The current hand and arm are incorrect.
+
+Replace only the visible left arm and left hand with anatomically correct proportions.
+
+The arm must emerge naturally from the jacket sleeve.
+
+The upper arm, forearm, wrist and hand must have realistic adult male proportions.
+
+The elbow should remain relaxed.
+
+The arm should hang naturally beside the body.
+
+The hand should rest low near the upper thigh.
+
+The pose must feel candid, effortless and completely unposed.
+
+The hand should hold a luxury crystal old-fashioned glass using a relaxed top-rim grip.
+
+Reference the following gesture:
+
+* fingers gently draped over the rim
+* grip from above
+* relaxed wrist
+* loose thumb
+* no squeezing
+* no presentation pose
+* no raised arm
+* no bent wrist
+* no dramatic gesture
+
+The glass should remain close to the leg and close to the body.
+
+The glass must be:
+
+* heavy premium crystal
+* thick base
+* rich geometric cut-crystal pattern
+* multiple facets
+* luxury old-fashioned rocks glass
+* realistic refractions
+* realistic reflections
+
+Inside the glass:
+
+* classic Negroni cocktail
+* deep ruby-red liquid
+* one large clear ice cube
+* subtle orange peel garnish
+* realistic liquid level
+
+The hand and glass must look naturally connected.
+
+Correct anatomy is the highest priority.
+
+Do not alter any other pixels.
+
+This should look like a professional luxury editorial retouch, not a newly generated image.
+
+Ultra-photorealistic.
+Invisible edit quality.
+
+
+6.Промпт для женщины.
+
+LOCALIZED EDIT ONLY
+
+Use the current sofa crop as the base image.
+
+Add the same woman from the reference portrait into this crop, preserving her exact identity, face, hairstyle, eyeglasses, and overall styling.
+
+Keep her red evening gown, long red gloves, and red heels exactly the same.
+
+Place her seated gracefully on the sofa in the foreground area of the crop, in a luxurious editorial fashion pose.
+
+The pose should feel elegant, relaxed, and cinematic:
+- seated on the sofa
+- back straight but relaxed
+- shoulders soft
+- one leg crossed naturally
+- refined, poised posture
+- sensual but tasteful
+- no exaggerated pose
+
+Add a slim cigarette in an elegant vintage long holder.
+She should be gently exhaling soft smoke.
+The smoke must be subtle, realistic, and atmospheric, not heavy.
+
+Maintain the same opulent mirrored interior, golden warm lighting, dark reflective floor, chandeliers, and luxury fashion mood from the crop.
+Preserve the same cinematic ambiance and reflections.
+
+The woman should look fully integrated into the scene, as if she is naturally seated there.
+Make the final result look like a seamless luxury editorial fashion photograph.
+
+Ultra-photorealistic.
+
+
+7. Один из финальных "монстров", где мы запрещали модели улучшать всё подряд.
+
+
+REFERENCE-PRESERVATION COMPOSITE ONLY
+
+This is a photo-compositing task.
+
+This is NOT a regeneration task.
+
+This is NOT a redesign task.
+
+This is NOT a reinterpretation task.
+
+The goal is to combine two existing finished images into one shared scene while preserving both subjects exactly.
+
+BASE IMAGE:
+Use the final penthouse image with the standing man holding the cocktail as the base image.
+
+SECONDARY IMAGE:
+Use the seated woman on the sofa as a reference-preserved subject.
+
+LOCKED SUBJECT RULE
+
+Both people are locked subjects.
+
+Do not regenerate either person.
+
+Do not redesign either person.
+
+Do not reinterpret either person.
+
+Do not beautify either person.
+
+Do not modify facial features.
+
+Do not modify body proportions.
+
+Do not modify age.
+
+Do not modify identity.
+
+Do not modify expression.
+
+Do not modify eyewear.
+
+Do not modify clothing.
+
+Do not modify pose.
+
+Do not modify accessories.
+
+Preserve every visible feature exactly as shown in the source images.
+
+MAN — MUST REMAIN IDENTICAL
+
+Preserve exactly:
+
+* face
+* head shape
+* smile
+* beard
+* eyeglasses
+* skin tone
+* body proportions
+* jacket
+* shirt
+* trousers
+* bare feet
+* left hand in pocket
+* right arm
+* right hand
+* cocktail glass
+* posture
+* scale
+* perspective
+* lighting
+
+Do not change:
+
+* facial structure
+* eyes
+* glasses shape
+* beard shape
+* body size
+* stance
+* arm position
+* cocktail position
+
+WOMAN — MUST REMAIN IDENTICAL
+
+Preserve exactly:
+
+* face
+* eyeglasses
+* hairstyle
+* expression
+* skin tone
+* body proportions
+* red gown
+* red gloves
+* red heels
+* cigarette holder
+* smoke
+* seated pose
+* lighting
+
+Do not change:
+
+* facial structure
+* eye shape
+* glasses
+* lips
+* hairstyle
+* dress design
+* glove design
+* pose
+* cigarette holder position
+
+COMPOSITING INSTRUCTION
+
+Insert the woman into the existing sofa area of the penthouse scene.
+
+The woman must remain exactly as she appears in her source image.
+
+Only position her within the sofa area.
+
+Do not create a new version of her.
+
+Do not redraw her.
+
+Do not restyle her.
+
+SCALE AND PERSPECTIVE RULE
+
+Critical instruction:
+
+Keep both people at their original visual scale relative to their source images.
+
+The standing man remains the dominant figure in the room.
+
+The seated woman must appear naturally seated within the sofa dimensions.
+
+Do not enlarge the woman.
+
+Do not make the woman visually equal in height to the standing man.
+
+Do not allow the woman to dominate the frame.
+
+The woman must visually read as seated farther back in the room.
+
+Her body must fit naturally inside the sofa seating area.
+
+Her scale must match the sofa dimensions.
+
+Her head height must remain consistent with a seated person positioned on that sofa.
+
+ENVIRONMENT LOCK
+
+Preserve the penthouse scene exactly:
+
+* skyline
+* sunset
+* windows
+* reflections
+* artwork
+* floor
+* sofa
+* furniture
+* lighting
+* shadows
+* atmosphere
+* room geometry
+* camera position
+* lens perspective
+* framing
+* composition
+
+Do not redesign the room.
+
+Do not move furniture.
+
+Do not alter architectural elements.
+
+Do not alter the artwork.
+
+Do not change lighting design.
+
+Do not change color grading.
+
+COMPOSITING PRIORITY
+
+Highest priority:
+identity preservation.
+
+Second priority:
+scale preservation.
+
+Third priority:
+environment preservation.
+
+Only perform the minimum changes necessary to place the woman onto the sofa.
+
+The final image must look like a single luxury editorial photograph created by seamlessly compositing two already-finished photographs together.
+
+Ultra-photorealistic.
+
+Invisible composite quality.
+
+Reference-preservation composite.
+
+No regeneration.
+
+No reinterpretation.
+
+No facial modification.
+
+No scale modification.
+
+No identity drift.
+
+
+8.Финальный сборочный промпт.
+
+REFERENCE-PRESERVATION COMPOSITE ONLY
+
+PHOTO COMPOSITING TASK.
+
+NOT A REGENERATION TASK.
+
+NOT A REDESIGN TASK.
+
+NOT A REINTERPRETATION TASK.
+
+USE ALL PROVIDED REFERENCE IMAGES.
+
+REFERENCE PRIORITY ORDER
+
+REFERENCE 1 (HIGHEST PRIORITY):
+Close-up portrait of the man.
+This image is the identity anchor for the man.
+
+REFERENCE 2:
+Original penthouse image with the standing man.
+This image defines:
+
+* man's full body
+* clothing
+* pose
+* cocktail
+* proportions
+* room
+* camera angle
+* perspective
+
+REFERENCE 3:
+Latest successful composite containing both subjects.
+This image defines:
+
+* woman's placement
+* woman's scale
+* woman's perspective
+* spatial relationship between both subjects
+
+OBJECTIVE
+
+Create a single seamless luxury editorial photograph containing both people in the penthouse scene.
+
+The result must preserve both subjects exactly.
+
+No redesign.
+
+No reinterpretation.
+
+No beautification.
+
+No identity drift.
+
+LOCKED SUBJECTS
+
+Both people are locked.
+
+Treat both people as existing photographed individuals.
+
+Do not generate new versions of them.
+
+Do not improve them.
+
+Do not stylize them.
+
+Do not optimize facial features.
+
+Do not modify age.
+
+Do not modify ethnicity.
+
+Do not modify body shape.
+
+Do not modify expressions.
+
+Do not modify identity.
+
+MAN — ABSOLUTE IDENTITY LOCK
+
+The close-up portrait is the identity authority.
+
+The man's face must match the close-up portrait exactly.
+
+Preserve:
+
+* skull shape
+* facial proportions
+* forehead
+* eyes
+* eyelids
+* eye spacing
+* eyebrows
+* nose
+* cheeks
+* smile
+* lips
+* beard density
+* beard shape
+* beard color
+* skin texture
+* skin tone
+* eyeglasses
+* eyeglass frame shape
+* eyeglass thickness
+* eyeglass proportions
+
+Preserve exactly:
+
+* jacket
+* shirt
+* trousers
+* bare feet
+* cocktail glass
+* pose
+* posture
+* arm positions
+* hand positions
+
+Do not change:
+
+* face
+* glasses
+* beard
+* expression
+* body proportions
+* stance
+* clothing
+
+IMPORTANT:
+
+The man's face must be copied from the portrait reference, not regenerated.
+
+The portrait reference overrides all other references.
+
+If conflict exists, preserve the portrait identity exactly.
+
+WOMAN — ABSOLUTE IDENTITY LOCK
+
+The woman already matches correctly in the latest composite.
+
+Preserve her exactly as shown.
+
+Preserve:
+
+* face
+* glasses
+* hairstyle
+* expression
+* skin tone
+* body proportions
+* red gown
+* red gloves
+* red heels
+* cigarette holder
+* smoke
+* seated pose
+
+Do not modify:
+
+* facial structure
+* eyes
+* lips
+* glasses
+* hair
+* dress
+* pose
+* proportions
+
+Do not beautify.
+
+Do not alter identity.
+
+Do not generate a new version.
+
+Simply preserve the existing woman exactly.
+
+SCALE LOCK
+
+Use the latest successful composite as the scale authority.
+
+The woman scale is already correct.
+
+Do not enlarge the woman.
+
+Do not reduce the woman.
+
+Do not move the woman significantly.
+
+Keep her seated naturally on the sofa.
+
+The standing man remains visually dominant because he is standing closer to camera.
+
+Maintain existing relative scale between both subjects.
+
+ENVIRONMENT LOCK
+
+Preserve exactly:
+
+* penthouse
+* windows
+* skyline
+* sunset
+* reflections
+* floor
+* artwork
+* sofa
+* furniture
+* lighting
+* shadows
+* atmosphere
+* room geometry
+* camera angle
+* focal length
+* framing
+
+Do not redesign the room.
+
+Do not move furniture.
+
+Do not alter architecture.
+
+Do not alter color grading.
+
+Do not alter mood.
+
+COMPOSITING METHOD
+
+Use the penthouse scene as the base image.
+
+Use the woman only as a preserved inserted subject.
+
+Use the portrait only as an identity lock for the man's face.
+
+Apply only minimal corrections required to match the portrait identity.
+
+No regeneration of either subject.
+
+No reinterpretation of either subject.
+
+No artistic changes.
+
+No beauty retouching.
+
+No face enhancement.
+
+No face replacement with a different identity.
+
+FINAL GOAL
+
+A seamless invisible composite.
+
+Both people must appear exactly as in their references.
+
+The man must match the portrait anchor exactly.
+
+The woman must match the successful composite exactly.
+
+Ultra-photorealistic.
+
+Reference-preservation composite.
+
+Identity preservation priority.
+
+Zero identity drift.
+
+Zero beautification.
+
+Zero redesign.
+
+Invisible composite quality.
+
+
+И мой комментарий, после этой финальной генерации:
+
+Ну что, я тебя поздравляю! Впрочем, себя тоже😁
+Всё получилось и как по мне — идеально!
+Проверь, на всякий случай, итоговую генерацию и референсы мужчины и женщины, по всем критичным точкам
+
